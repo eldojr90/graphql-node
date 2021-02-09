@@ -1,0 +1,19 @@
+{
+  "name": "graphql-course-eldinho",
+  "version": "1.0.0",
+  "description": "Curso da Udemy - GraphQL com NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon start.js"
+  },
+  "keywords": [],
+  "author": "Eldo Júnior",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^4.0.8",
+    "mongodb": "^3.6.4"
+  }
+}
